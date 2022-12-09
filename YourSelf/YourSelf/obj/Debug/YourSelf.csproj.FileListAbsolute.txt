@@ -1,0 +1,76 @@
+D:\Stady\YourSelf\YourSelf\bin\Debug\YourSelf.exe.config
+D:\Stady\YourSelf\YourSelf\bin\Debug\YourSelf.exe
+D:\Stady\YourSelf\YourSelf\bin\Debug\YourSelf.pdb
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.AssemblyReference.cache
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.SuggestedBindingRedirects.cache
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.Form1.resources
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.Properties.Resources.resources
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.GenerateResource.cache
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.CoreCompileInputs.cache
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.exe
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.pdb
+D:\Stady\YourSelf\YourSelf\obj\Debug\YourSelf.Form2.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\bin\Debug\YourSelf.exe.config
+D:\ProjectVisualStudio\YourSelf\YourSelf\bin\Debug\YourSelf.exe
+D:\ProjectVisualStudio\YourSelf\YourSelf\bin\Debug\YourSelf.pdb
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.AssemblyReference.cache
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Bleeding.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.FirstAid.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Form1.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Form2.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Form3.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Form4.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Form5.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Form6.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Form7.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Incompatibility.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Injury.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Poisoning.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.Properties.Resources.resources
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.GenerateResource.cache
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.CoreCompileInputs.cache
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.exe
+D:\ProjectVisualStudio\YourSelf\YourSelf\obj\Debug\YourSelf.pdb
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\bin\Debug\YourSelf.exe.config
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\bin\Debug\YourSelf.exe
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\bin\Debug\YourSelf.pdb
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.AssemblyReference.cache
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Bleeding.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.FirstAid.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Form1.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Form2.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Form3.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Form4.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Form5.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Form6.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Form7.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Incompatibility.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Injury.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Poisoning.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.Properties.Resources.resources
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.GenerateResource.cache
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.CoreCompileInputs.cache
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.exe
+C:\Users\ytoro\Downloads\YourSelf\YourSelf\obj\Debug\YourSelf.pdb
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\bin\Debug\YourSelf.exe.config
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\bin\Debug\YourSelf.exe
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\bin\Debug\YourSelf.pdb
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.AssemblyReference.cache
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.SuggestedBindingRedirects.cache
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Bleeding.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.FirstAid.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Form1.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Form2.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Form3.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Form4.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Form5.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Form6.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Form7.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Incompatibility.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Injury.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Poisoning.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.Properties.Resources.resources
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.GenerateResource.cache
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.csproj.CoreCompileInputs.cache
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.exe
+D:\Stady\YourSelf finish\2.1\YourSelf\YourSelf\obj\Debug\YourSelf.pdb
